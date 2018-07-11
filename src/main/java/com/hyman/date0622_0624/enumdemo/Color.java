@@ -1,6 +1,5 @@
 package com.hyman.date0622_0624.enumdemo;
 
-import javax.naming.Name;
 
 /**
  * @program: javalearning
